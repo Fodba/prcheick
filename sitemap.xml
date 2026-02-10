@@ -4,70 +4,70 @@
     
     <!-- Page principale -->
     <url>
-        <loc>https://www.cheickcherif.fr/</loc>
+        <loc>https://www.professeurcheikh.com/</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
         <!-- Image 1: Portrait principal -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/professeur-cheick-cherif-portrait-principal.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/professeur-cheick-cherif-portrait-principal.webp</image:loc>
             <image:title>Professeur Cheick Cherif - Marabout Voyant Médium à Paris</image:title>
             <image:caption>Professeur Cheick Cherif, grand marabout voyant médium africain à Paris, héritier d'une lignée de 7 générations de maîtres spirituels</image:caption>
         </image:image>
         
         <!-- Image 2: Amulette sacrée -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/lignee-maitre-amulette-sacree.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/lignee-maitre-amulette-sacree.webp</image:loc>
             <image:title>Amulette sacrée de la lignée Cherif</image:title>
             <image:caption>Amulette sacrée transmise de génération en génération dans la famille de marabouts Cherif</image:caption>
         </image:image>
         
         <!-- Image 3: Voile sacré -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/lignee-maitre-voile-sacre.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/lignee-maitre-voile-sacre.webp</image:loc>
             <image:title>Statuette africaine ancestrale</image:title>
             <image:caption>Statuette africaine ancestrale utilisée par les marabouts de la lignée pour les rituels de protection</image:caption>
         </image:image>
         
         <!-- Image 4: Rituel bleu -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/lignee-maitre-rituel-bleu.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/lignee-maitre-rituel-bleu.webp</image:loc>
             <image:title>Cauris de divination</image:title>
             <image:caption>Cauris de divination utilisés par les marabouts voyants de la famille Cherif depuis des générations</image:caption>
         </image:image>
         
         <!-- Image 5: Ancien maître -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/lignee-ancien-maitre-spirituel.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/lignee-ancien-maitre-spirituel.webp</image:loc>
             <image:title>Masque africain cérémoniel</image:title>
             <image:caption>Masque africain cérémoniel porté lors des rituels ancestraux transmis dans la lignée</image:caption>
         </image:image>
         
         <!-- Image 6: Prière chapelet -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/rituel-priere-chapelet.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/rituel-priere-chapelet.webp</image:loc>
             <image:title>Professeur Cheick Cherif en prière</image:title>
             <image:caption>Professeur Cheick Cherif en prière avec chapelet, pratique quotidienne du marabout voyant médium</image:caption>
         </image:image>
         
         <!-- Image 7: Bougies cérémonie -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/rituel-bougies-ceremonie.webp</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/rituel-bougies-ceremonie.webp</image:loc>
             <image:title>Bougies de cérémonie spirituelle</image:title>
             <image:caption>Bougies de cérémonie pour rituels de Cheick Cherif, ambiance spirituelle pour consultations de voyance</image:caption>
         </image:image>
         
         <!-- Image 8: Logo -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/logo-voyant-marabout-cheick-cherif.png</image:loc>
+            <image:loc>https://www.professeurcheikh.com/logo-voyant-marabout-cheick-cherif.png</image:loc>
             <image:title>Logo Professeur Cheick Cherif</image:title>
             <image:caption>Logo du marabout voyant médium Cheick Cherif</image:caption>
         </image:image>
         
         <!-- Image 9: Open Graph -->
         <image:image>
-            <image:loc>https://www.cheickcherif.fr/images/og-image.jpg</image:loc>
+            <image:loc>https://www.professeurcheikh.com/images/og-image.jpg</image:loc>
             <image:title>Professeur Cheick Cherif - Marabout Paris Île-de-France</image:title>
             <image:caption>Image de partage réseaux sociaux du marabout voyant médium Cheick Cherif à Paris</image:caption>
         </image:image>
@@ -75,56 +75,56 @@
     
     <!-- Sections principales (ancres) -->
     <url>
-        <loc>https://www.cheickcherif.fr/#accueil</loc>
+        <loc>https://www.professeurcheikh.com/#accueil</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#lignee</loc>
+        <loc>https://www.professeurcheikh.com/#lignee</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#methode</loc>
+        <loc>https://www.professeurcheikh.com/#methode</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#services</loc>
+        <loc>https://www.professeurcheikh.com/#services</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#temoignages</loc>
+        <loc>https://www.professeurcheikh.com/#temoignages</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#zones</loc>
+        <loc>https://www.professeurcheikh.com/#zones</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#faq</loc>
+        <loc>https://www.professeurcheikh.com/#faq</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://www.cheickcherif.fr/#contact</loc>
+        <loc>https://www.professeurcheikh.com/#contact</loc>
         <lastmod>2026-02-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
